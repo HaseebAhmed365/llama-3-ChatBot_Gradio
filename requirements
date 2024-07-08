@@ -1,0 +1,8 @@
+transformers
+langchain_together
+langchain
+torch
+nltk
+sentencepiece
+pdfplumber
+gradio
